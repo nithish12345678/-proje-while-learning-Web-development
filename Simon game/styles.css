@@ -1,0 +1,36 @@
+body{
+    background-color: #49f;
+    text-align: center;
+}
+h1{
+    color:yellow;
+    font-family:cursive;
+    font-size:3.5rem;
+    margin:40px 40px;
+    line-height:1.5rem;
+}
+.btn{
+    padding:100px 100px;
+    margin:15px 15px;
+    border:6px solid #000;
+    border-radius: 12px;
+
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+
+.clicked{
+    /* text-shadow: 22px 2px 5px #fff; */
+    background-color: #fff;
+    text-decoration:blink;
+}
